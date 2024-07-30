@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>test2</title>
+      <link href="/2024/07/30/test2/"/>
+      <url>/2024/07/30/test2/</url>
+      
+        <content type="html"><![CDATA[<h1 id="一级标题"><a href="#一级标题" class="headerlink" title="一级标题"></a>一级标题</h1><p>字体测试：<br><strong>粗体</strong><br><em>斜体</em><br><em><strong>粗斜体</strong></em></p><p>代码测试：</p><figure class="highlight py"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">print</span>(<span class="string">&quot;Hello&quot;</span>)</span><br></pre></td></tr></table></figure><p>图片测试：</p><p><img src="https://sm.ms/image/9gYS1cVFLOTzsGr"></p><p>引用测试：</p><blockquote><p>这是一条引用</p><blockquote><p>这是一级嵌套</p><blockquote><p>这是二级嵌套</p></blockquote></blockquote></blockquote><h2 id="二级标题"><a href="#二级标题" class="headerlink" title="二级标题"></a>二级标题</h2><p>无序列表测试：</p><ul><li>revue</li><li>star</li><li>light</li></ul><h3 id="三级标题"><a href="#三级标题" class="headerlink" title="三级标题"></a>三级标题</h3><h4 id="四级标题"><a href="#四级标题" class="headerlink" title="四级标题"></a>四级标题</h4><p>行内代码测试：</p><p>行内代码：<code>import numpy as np</code></p><p>脚注测试：</p><p>创建脚注格式类似这样 <a href="%E8%BF%99%E6%98%AF%E4%B8%80%E6%9D%A1%E8%84%9A%E6%B3%A8">^1</a>。</p><p>表格测试：</p><table><thead><tr><th>表头</th><th>表头</th></tr></thead><tbody><tr><td>单元格</td><td>单元格</td></tr><tr><td>单元格</td><td>单元格</td></tr></tbody></table>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>test</title>
       <link href="/2024/06/21/test/"/>
       <url>/2024/06/21/test/</url>
